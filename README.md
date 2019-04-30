@@ -1,6 +1,8 @@
 # Repository ini berisi hasil latihan dengan mengerjakan soal berikut:
 https://github.com/LintangWisesa/Ujian_Fundamental_JCDS03.git
 
+File kalkulator_FPB_KPK.py berisi kalkulator untuk menghitung FPB dan KPK dalam tampilan web sederhana sebagai latihan menggunakan modul Flask.
+
 # Soal Ujian Python Data Science Fundamental
 
 ![Lintang_Purwadhika](https://static.wixstatic.com/media/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png/v1/fill/w_246,h_39,al_c,usm_0.66_1.00_0.01/2e6af2_f69a4271c3534ae1869a7ed63e278b2b~mv2.png)
